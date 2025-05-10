@@ -9,6 +9,7 @@
 #include <limits>
 #include <set>
 #include <iterator>
+#include <stdexcept>
 
 namespace Nui
 {
